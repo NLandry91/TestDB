@@ -1,0 +1,11 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\TestDB\TestDB\bin\Debug\TestDB.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\TestDB\TestDB\bin\Debug\TestDB.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\TestDB\TestDB\bin\Debug\TestDB.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\TestDB\TestDB\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\TestDB\TestDB\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\TestDB\TestDB\obj\Debug\TestDB.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\TestDB\TestDB\obj\Debug\TestDB.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\TestDB\TestDB\obj\Debug\TestDB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\TestDB\TestDB\bin\Debug\MTConnect-NET.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\TestDB\TestDB\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\TestDB\TestDB\bin\Debug\RestSharp.xml
